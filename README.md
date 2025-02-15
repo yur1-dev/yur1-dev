@@ -1,72 +1,88 @@
-<!-- Pixel Art Cat (Replace the `src` with your hosted GIF URL) -->
-<p align="center">
-  <img src="https://YOUR_IMAGE_HOSTING/cat-pixel-art.gif" alt="Pixel Art Black Cat" width="150"/>
-</p>
+<!-- Visitor Badge (top-right) -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-# Hi, I'm Yuri! 👋
+<!-- Typing SVG -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-Welcome to my GitHub profile where creativity meets code in a pixel-perfect world. I'm a Frontend Developer, Crypto Enthusiast, and Solana Innovator passionate about building engaging digital experiences.
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel)](https://yur1-dev.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-yur1--dev-black?style=flat-square&logo=github)](https://github.com/yur1-dev)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter)
+<br/>
 
----
+<!-- About/Intro Section -->
+<div align="center">
+ 
+ 🔭 I’m currently working on <strong>a marketplace</strong>  
+ 
+ 🌱 I’m currently learning <strong>Docker, Supabase, AWS</strong>  
 
-## 🛠️ Tech Stack
+ 💬 Ask me about <strong>Node.js, React, Firebase</strong>... or anything <a href="https://github.com/salesp07/salesp07/issues">here</a>  
 
-**Frontend:**
-- ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-- ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
+ ⚡ Fun fact: <strong>Game of Thrones Night's Watch cloaks are made from Ikea rugs</strong>  
 
-**Backend & APIs:**
-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
+</div>
 
-**Blockchain & Crypto:**
-- ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana)
-- ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=ethereum)
-- ![Pump.fun](https://img.shields.io/badge/Pump.fun-orange?style=flat-square)
+<br/>
 
----
+<!-- Socials -->
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</div>
 
-## 🚀 Projects
+<hr/>
 
-- **[Solana Vibe Station](https://yur1-dev.vercel.app/)**  
-  Streaming & Bots for Pump.fun with a retro pixel twist.
+<!-- Tech Stack -->
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <!-- First row -->
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+  <br/>
+  <!-- Second row -->
+  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+</div>
 
-- **Solstats.io Alternative**  
-  A beta crypto analytics platform built with passion for the decentralized world.
+<br/>
+<hr/>
 
-- **Telegram Bot**  
-  Automating token bundling and wallet management on Pump.fun.
+<!-- Snake Contribution Graph -->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
----
+<hr/>
 
-## 📈 GitHub Stats
+<!-- GitHub Stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <br/><br/>
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yur1-dev&show_icons=true&theme=radical" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yur1-dev&theme=radical" width="400px" />
-</p>
+<br/><br/>
 
----
+<hr/>
 
-## 🌱 Currently Learning
+<!-- Ko-fi Support -->
+<div align="center">
+  <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
+    <img height="64" style="border:0px;height:64px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
+</div>
 
-- Smart Contract Development (Solana)
-- Advanced JavaScript Patterns
-- Telegram Bot Development
-
----
-
-## 💬 Let's Connect!
-
-- **Portfolio:** [yur1-dev.vercel.app](https://yur1-dev.vercel.app/)
-- **Twitter:** [@your-twitter](https://twitter.com/your-twitter)
-- **Email:** yuriesb01@gmail.com
-
----
-
-⭐ If you enjoy my work, hit that star and join me on this journey through the pixelated crypto-verse!
+<br/>
