@@ -1,27 +1,37 @@
-![My GIF](https://www.icegif.com/wp-content/uploads/2024/04/nyan-cat-icegif-5.gif)
+<!-- Top Section: Short, punchy intro -->
+# 📍 Hey there, I'm **Yur1**!
 
-# Hi there, I'm **Yur1**! 👋
+`I'm a 23-year-old Frontend Developer.
+I have been programming for more than 3 years. 
+I create professional websites.`
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to building dynamic, user-friendly digital experiences. My portfolio website is the hub for all my projects, skills, and my journey in tech.
+<!-- Using an HTML img tag ensures that no controls are added -->
+<img src="https://yur1-dev.vercel.app/pixel-cat.gif" alt="Pixel Cat" />
 
-[👉 Visit My Portfolio](https://yur1-dev.vercel.app/)
+## ✨ About Me
 
----
-
-## 💫 About Me
-
-I'm a creative developer who loves turning ideas into reality through code. Whether it’s crafting sleek web applications or exploring new tech trends, I’m all about clean code, innovative design, and continuous learning.
-
-**Current Focus:**
-- 🔭 Working on exciting new projects that push the boundaries of web development.
-- 🌱 Deepening my expertise in modern JavaScript frameworks and backend technologies.
-- 💬 Open to discussions on web development, UI/UX design, or the latest trends in tech.
-- 📫 Reach me on [Telegram](https://t.me/yuri_roc)
-- ⚡ Fun Fact: I thrive on minimalist design and the elegance of simplicity in code.
+- 🏗 **Building**: Currently working on exciting web dev projects, exploring Solana and Web3.  
+- 🔭 **Exploring**: Next.js, TailwindCSS, and the broader JavaScript ecosystem.  
+- 🎨 **Loves**: Minimalist UI/UX design, pixel-perfect frontends, and cat GIFs.  
+- 💬 **Ask Me About**: Web development, Web3, or any new dev trend.  
+- 📬 **Reach Me**: [Telegram](https://t.me/yuri_roc) • [Portfolio](https://yur1-dev.vercel.app/)  
 
 ---
 
-## 🌐 Socials
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yur1-dev&show_icons=true&theme=radical" alt="Yur1's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yur1-dev&layout=compact&theme=radical" alt="Yur1's Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yur1-dev&theme=radical" alt="Yur1's GitHub Streak" />
+</p>
+
+---
+
+## 🔗 Connect With Me
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/marcyuriesber)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/yui.esb)
@@ -30,33 +40,52 @@ I'm a creative developer who loves turning ideas into reality through code. Whet
 
 ---
 
-## 💻 Tech Stack
+## ⚙️ Tech Stack
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+<p align="left">
+  <!-- Next.js icon (unofficial, from devicons) -->
+  <img 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+       alt="Next.js" 
+       width="40" 
+       height="40"
+       style="margin-right: 8px;" />
+       
+  <!-- Tailwind CSS -->
+  <img 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" 
+       alt="Tailwind CSS" 
+       width="40" 
+       height="40"
+       style="margin-right: 8px;" />
+       
+  <!-- Figma -->
+  <img 
+       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
+       alt="Figma" 
+       width="40" 
+       height="40"
+       style="margin-right: 8px;" />
+       
+  <!-- Web3.js (no official Devicon, so using direct link) -->
+  <img 
+       src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/assets/logo.png" 
+       alt="Web3.js" 
+       width="40" 
+       height="40"
+       style="margin-right: 8px;" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## ☕ Support Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yur1-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Yur1 GitHub Stats" />
-</p>
+If you’ve found my work helpful or interesting, please consider buying me a coffee:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yur1-dev&theme=radical&hide_border=false" alt="Yur1 GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yur1-dev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Yur1 Top Languages" />
-</p>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00.svg?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-link)
 
 ---
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yur1-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer"/>
 </p>
