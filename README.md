@@ -1,76 +1,106 @@
-<!-- Top Section: Short, punchy intro -->
-# 📍 Hey there, I'm **Yur1**!
+<!--
+  README inspired by https://yur1-dev.vercel.app/
+  Author: Yur1
+  Description: A concise yet stylish README highlighting key info, stats, and contact links.
+-->
 
-`I'm a 23-year-old Frontend Developer.
-I have been programming for more than 3 years. 
-I create professional websites.`
+<!-- Top Section: Intro -->
+<h1 align="left">🔩Hey there, I'm <span style="color:#f25f5c;">Yur1</span>!</h1>
 
-<!-- Using an HTML img tag ensures that no controls are added -->
-<img src="https://yur1-dev.vercel.app/pixel-cat.gif" alt="Pixel Cat" />
+🏗 **Currently Building**: Web dev projects using React, Next.js, and TailwindCSS.  
+🔭 **Exploring**: TypeScript, design patterns, and performance optimization.  
+🎨 **Loves**: Minimalist UI/UX, pixel-perfect frontends, and cat GIFs.  
+💬 **Ask Me About**: Modern frontend workflows, JavaScript, or anything Web3-related.  
+📬 **Reach Me**: [Telegram](https://t.me/yuri_roc) • [Portfolio](https://yur1-dev.vercel.app/)  
 
-## ✨ About Me
+<img 
+     src="https://github-readme-stats.vercel.app/api?username=yur1-dev&show_icons=true&theme=radical" 
+     alt="Yur1's GitHub Stats" 
+     height="180px"/>
 
-- 🏗 **Building**: Currently working on exciting web dev projects, exploring Solana and Web3.  
-- 🔭 **Exploring**: Next.js, TailwindCSS, and the broader JavaScript ecosystem.  
-- 🎨 **Loves**: Minimalist UI/UX design, pixel-perfect frontends, and cat GIFs.  
-- 💬 **Ask Me About**: Web development, Web3, or any new dev trend.  
-- 📬 **Reach Me**: [Telegram](https://t.me/yuri_roc) • [Portfolio](https://yur1-dev.vercel.app/)  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yur1-dev&show_icons=true&theme=radical" alt="Yur1's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yur1-dev&layout=compact&theme=radical" alt="Yur1's Top Languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yur1-dev&theme=radical" alt="Yur1's GitHub Streak" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/marcyuriesber)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/yui.esb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-esber-9422b1227/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@yur1_dev)
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=yur1-dev&theme=radical" 
+       alt="Yur1's GitHub Streak" />
 
 ---
 
 ## ⚙️ Tech Stack
 
-<p align="left">
-  <!-- Next.js icon (unofficial, from devicons) -->
+<p>
+  <!-- HTML5 -->
+  <img 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+       alt="HTML5" 
+       width="40" 
+       height="40"
+       style="margin-right: 8px;" />
+  <!-- CSS3 -->
+  <img 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+       alt="CSS3" 
+       width="40" 
+       height="40"
+       style="margin-right: 8px;" />
+  <!-- JavaScript -->
+  <img 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+       alt="JavaScript" 
+       width="40" 
+       height="40"
+       style="margin-right: 8px;" />
+  <!-- TypeScript -->
+  <img 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+       alt="TypeScript" 
+       width="40" 
+       height="40"
+       style="margin-right: 8px;" />
+  <!-- React -->
+  <img 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+       alt="React" 
+       width="40" 
+       height="40"
+       style="margin-right: 8px;" />
+  <!-- Next.js -->
   <img 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
        alt="Next.js" 
        width="40" 
        height="40"
        style="margin-right: 8px;" />
-       
   <!-- Tailwind CSS -->
   <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" 
+       src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" 
        alt="Tailwind CSS" 
        width="40" 
        height="40"
        style="margin-right: 8px;" />
-       
-  <!-- Figma -->
+  <!-- Git -->
   <img 
-       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
-       alt="Figma" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+       alt="Git" 
        width="40" 
        height="40"
        style="margin-right: 8px;" />
-       
-  <!-- Web3.js (no official Devicon, so using direct link) -->
+  <!-- GitHub -->
   <img 
-       src="https://raw.githubusercontent.com/ChainSafe/web3.js/1.x/assets/logo.png" 
-       alt="Web3.js" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       alt="GitHub" 
+       width="40" 
+       height="40"
+       style="margin-right: 8px;" />
+  <!-- Node.js -->
+  <img 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+       alt="Node.js" 
+       width="40" 
+       height="40"
+       style="margin-right: 8px;" />
+  <!-- Python -->
+  <img 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+       alt="Python" 
        width="40" 
        height="40"
        style="margin-right: 8px;" />
@@ -78,14 +108,19 @@ I create professional websites.`
 
 ---
 
-## ☕ Support Me
-
-If you’ve found my work helpful or interesting, please consider buying me a coffee:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00.svg?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-link)
-
----
+## 🔗 Connect With Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer"/>
+  <a href="https://www.behance.net/marcyuriesber">
+    <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://www.facebook.com/yui.esb">
+    <img src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/yuri-esber-9422b1227/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://tiktok.com/@yur1_dev">
+    <img src="https://img.shields.io/badge/TikTok-000000.svg?logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
 </p>
