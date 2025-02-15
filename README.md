@@ -1,88 +1,76 @@
-<!-- Visitor Badge (top-right) -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<!-- 
+  README inspired by https://yur1-dev.vercel.app/ 
+  and featuring a black cat pixel art from https://www.deviantart.com/vapcool/art/Black-Cat-Pixel-Art-Pagedoll-GIF-981753375
+-->
 
-<!-- Typing SVG -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
+<!-- Left-Aligned Pixel Cat -->
+<img src="https://YOUR_IMAGE_HOSTING/black-cat-pixel.gif"
+     alt="Black Cat Pixel Art"
+     width="130"
+     style="float: left; margin-right: 20px;"/>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+# Yuri (yur1-dev)
+**Frontend Developer** • **Crypto Enthusiast** • **Solana Builder**
 
-<br/>
+<br clear="left"/>
 
-<!-- About/Intro Section -->
-<div align="center">
- 
- 🔭 I’m currently working on <strong>a marketplace</strong>  
- 
- 🌱 I’m currently learning <strong>Docker, Supabase, AWS</strong>  
+> *“Bringing pixel-perfect UIs to the crypto-verse.”*
 
- 💬 Ask me about <strong>Node.js, React, Firebase</strong>... or anything <a href="https://github.com/salesp07/salesp07/issues">here</a>  
+---
 
- ⚡ Fun fact: <strong>Game of Thrones Night's Watch cloaks are made from Ikea rugs</strong>  
+## 👀 About Me
 
-</div>
+- Currently exploring **Solana** & building bots for **Pump.fun**  
+- Learning **Smart Contract** development and advanced **JavaScript** patterns  
+- Passionate about **web3** technologies and bridging them with **user-friendly** interfaces  
 
-<br/>
+**Website:** [yur1-dev.vercel.app](https://yur1-dev.vercel.app/)  
+**Email:** [yuriesb01@gmail.com](mailto:yuriesb01@gmail.com)  
+**Twitter:** [@your-twitter](https://twitter.com/your-twitter)  
 
-<!-- Socials -->
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-</div>
+---
 
-<hr/>
+## 🚀 Projects
 
-<!-- Tech Stack -->
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
-<br/>
-<div align="center">
-  <!-- First row -->
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-  <br/>
-  <!-- Second row -->
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
-</div>
+1. **[Solana Vibe Station](https://yur1-dev.vercel.app/)**  
+   *Streaming & Bots for Pump.fun with a retro pixel twist.*  
 
-<br/>
-<hr/>
+2. **Solstats.io Alternative** *(Beta)*  
+   *Crypto analytics with a focus on speed & usability.*  
 
-<!-- Snake Contribution Graph -->
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
+3. **Telegram Bot**  
+   *Automates token bundling & wallet management for Pump.fun.*  
 
-<hr/>
+---
 
-<!-- GitHub Stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/><br/>
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
-</div>
+## 🛠️ Tech Stack
 
-<br/><br/>
+**Frontend:**  
+- Next.js, React, TailwindCSS
 
-<hr/>
+**Backend & APIs:**  
+- Node.js, FastAPI
 
-<!-- Ko-fi Support -->
-<div align="center">
-  <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
-    <img height="64" style="border:0px;height:64px;" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" alt="Buy Me a Coffee at ko-fi.com" />
-  </a>
-</div>
+**Blockchain & Crypto:**  
+- Solana, Web3.js, Pump.fun
 
-<br/>
+---
+
+## 📈 GitHub Stats
+
+![Yuri's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yur1-dev&theme=radical&hide_border=true&border_radius=5)
+![Yuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yur1-dev&show_icons=true&theme=radical&hide_border=true&border_radius=5)
+
+---
+
+## 💡 Currently Learning
+
+- **Solana** smart contracts (Rust)  
+- **Advanced JavaScript** design patterns  
+- **Telegram Bot** integration & automation  
+
+---
+
+<p>
+<strong>⭐ If you enjoy my work, consider giving a star and following along!</strong>
+</p>
