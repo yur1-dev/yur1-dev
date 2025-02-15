@@ -4,7 +4,7 @@
 -->
 
 <!-- Left-Aligned Pixel Cat -->
-<img src="https://YOUR_IMAGE_HOSTING/black-cat-pixel.gif"
+<img src="https://yur1-dev.vercel.app/pixel-cat.gif"
      alt="Black Cat Pixel Art"
      width="130"
      style="float: left; margin-right: 20px;"/>
