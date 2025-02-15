@@ -1,5 +1,5 @@
 <!-- Left-Aligned Pixel Cat (Auto-Playing GIF) -->
-<img src="https://YOUR_IMAGE_HOSTING/black-cat-pixel.gif" alt="Pixel Art Black Cat" width="130" style="float: left; margin-right: 20px;"/>
+<img src="https://yur1-dev.vercel.app/pixel-cat.gif" alt="Pixel Art Black Cat" width="130" style="float: left; margin-right: 20px;"/>
 
 # Yuri (yur1-dev)
 **Frontend Developer** • **Crypto Enthusiast** • **Solana Builder**
