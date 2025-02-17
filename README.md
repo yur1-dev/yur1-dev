@@ -5,7 +5,7 @@
 -->
 
 <!-- Top Section: Intro -->
-<h1 align="left">🔩Hey there, I'm <span style="color:#f25f5c;">Yur1</span>!</h1>
+<h1 align="left">🧑🏻‍💻Hey there, I'm <span style="color:#f25f5c;">Yur1</span>!</h1>
 
 🏗 **Currently Building**: Web dev projects using React, Next.js, and TailwindCSS.  
 🔭 **Exploring**: TypeScript, design patterns, and performance optimization.  
